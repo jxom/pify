@@ -1,6 +1,6 @@
 {
-  "name": "pify",
-  "version": "3.0.0",
+  "name": "@jmoxey/pify",
+  "version": "3.0.0-1",
   "description": "Promisify a callback-style function",
   "license": "MIT",
   "repository": "sindresorhus/pify",
